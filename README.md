@@ -24,13 +24,3 @@ An interactive Power BI dashboard to analyze Spotify streaming data and uncover 
 * Spotify API
 
 ---
-
-## Insights
-
-* Identified trends in track popularity and streaming patterns
-* Analyzed user engagement across different time periods
-* Generated actionable insights using data visualization
-
-* ![Python](https://img.shields.io/badge/Python-Analysis-blue)
-![SQL](https://img.shields.io/badge/SQL-Data-green)
-![PowerBI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
